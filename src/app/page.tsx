@@ -53,7 +53,7 @@ function StartScreen({ onStart, isLoading, username, onLogout, error }: {
       </div>
       <div className="text-center max-w-sm">
         <div className="text-6xl mb-6">💬</div>
-        <h1 className="text-2xl font-bold mb-3" style={{ color: '#2D2A26' }}>
+        <h1 className="text-2xl font-bold mb-3" style={{ color: '#8B5CF6' }}>
           哄哄模拟器
         </h1>
         <p className="text-sm mb-2" style={{ color: '#8A8580' }}>
